@@ -3,8 +3,8 @@ this repository contains practicals from subject Computational Methods SEM 3 B-t
 
 INDEX :
 
-WAP in C forFibbonacci Series (Iterative and Recursive)
 WAP in C to print the sum and average of N numbers eneted by the user
+WAP in C forFibbonacci Series (Iterative and Recursive)
 WAP in C to calculate and print the multiplication of 2 matrices
 WAP in C for Bisection Method
 WAP in C for Newton Raphson Method
